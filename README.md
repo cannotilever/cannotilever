@@ -1,5 +1,5 @@
 # Jacob Ellington
-I am a Sophomore Electrical and Computer Engineering major at Worcester Polytechnic Institute and general nerd.
+I am a Junior Computer Science major and ECE minor at Worcester Polytechnic Institute. I am also a massive Linux, Rust, and ESP32 fanboy.
 
 
 ## Competition Robotics
